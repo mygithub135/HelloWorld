@@ -15,4 +15,6 @@ yet more
 pull anytime!
 pull anytime!
 Pull a third anytime!
+
+Edited for webpages
 ![lion pic](屏幕截图(7).png)
